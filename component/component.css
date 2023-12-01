@@ -58,7 +58,7 @@ background-color: rgba(0, 0, 0, 0.8);
 /* Number text (1/3 etc) */
 .numbertext {
 color: #f2f2f2;
-font-size: 12px;
+font-size: 20px;
 padding: 8px 12px;
 position: absolute;
 top: 0;
@@ -70,6 +70,7 @@ text-align: center;
 background-color: #222;
 padding: 2px 16px;
 color: white;
+font-size: 25px;
 }
 
 .row:after {
@@ -93,5 +94,3 @@ opacity: 0.6;
 .demo:hover {
 opacity: 1;
 }
-
-.demo cursor p{font-size: 25px;}
